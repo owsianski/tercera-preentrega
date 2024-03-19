@@ -1,0 +1,23 @@
+/* contactenos */
+
+.contactenos {
+    background-color: rgb(29, 43, 83);
+    color: $color-blanco;
+    font-family: "Kanit", sans-serif;
+  }
+  
+  /* ubicacion */
+  
+  .ubicacion {
+    h2 {
+      font-family: "Kanit", sans-serif;
+    }
+  
+    iframe {
+      width: 600px;
+      height: 460px;
+      background: $color-blanco;
+      box-shadow: rgb(0, 0, 0, 0.35) 0 5px 15px;
+    }
+  }
+  
